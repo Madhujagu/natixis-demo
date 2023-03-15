@@ -1,3 +1,6 @@
+public class Factorial
+{
+
 public int checkFact(int num) 
 	{
 		int fact=1;
@@ -8,3 +11,4 @@ public int checkFact(int num)
 		}
 		return fact;
 	}
+}
